@@ -1,0 +1,6 @@
+#S# a b #A#
+!
+#A# #S# a a
+! b
+#qqqq# #aaaa# #relation_operation#
+#aaaa# #bbbb#
